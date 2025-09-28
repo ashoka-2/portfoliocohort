@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: "batman";
-    src: url(./batman_forever/batmfa__.ttf);
+    src: url(./batmfa__.ttf);
 }
 @font-face {
     font-family: "good";
-    src: url(./good_timing/good\ timing\ bd.otf);
+    src: url(./good\ timing\ bd.otf);
 }
 
 *{
@@ -173,6 +173,7 @@ h5{
     font-family: good;
     font-size: 1vw;
 }
+
 
 
 
